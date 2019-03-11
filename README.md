@@ -20,14 +20,6 @@ Functionally tested on:
 * Debian 8.8
 * OpenBSD 6.4
 
-### Install
-
-Run # make install
-
-### Uninstall
-
-Run # make uninstall 
-
 ### Running
 
 To apply ESR patch
@@ -52,6 +44,18 @@ For the static binaries
 
 ```
 $ make static
+```
+
+### Install
+
+```
+# make install
+```
+
+### Uninstall
+
+```
+# make uninstall
 ```
 
 ### Todo
