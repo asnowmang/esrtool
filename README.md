@@ -18,6 +18,7 @@ Functionally tested on:
 * Debian 9.8
 * Debian 9.7
 * Debian 8.8
+* OpenBSD 6.5
 * OpenBSD 6.4
 
 ### Running
